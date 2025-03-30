@@ -2,7 +2,6 @@
 
 
 
-```
 Jiku Power1D License Terms
 
 This agreement describes your rights and the conditions upon which you may use Jiku Power1D software. You should review the entire agreement because all of the terms together create this agreement that applies to you. By accepting this agreement or using the software, you agree to all of these terms. If you do not accept and comply with these terms, you may not use the software or its features. 
@@ -25,5 +24,3 @@ c. Restrictions. Jiku Pro reserves all rights (such as rights under intellectual
 ***********************************************************************
 NO WARRANTY
 THE SOFTWARE ON YOUR DEVICE IS LICENSED “AS IS.” TO THE MAXIMUM EXTENT PERMITTED BY YOUR LOCAL LAWS, YOU BEAR THE ENTIRE RISK AS TO THE SOFTWARE’S QUALITY AND PERFORMANCE. JIKU PRO GIVES NO EXPRESS WARRANTIES, GUARANTEES, OR CONDITIONS FOR THE SOFTWARE. JIKU PRO IS NOT LIABLE FOR ANY INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES THAT ARISE WHEN USING THE SOFTWARE.
-```
-
